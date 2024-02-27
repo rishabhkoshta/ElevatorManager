@@ -1,0 +1,15 @@
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ElevatorManager.csproj.AssemblyReference.cache
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ElevatorManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ElevatorManager.AssemblyInfoInputs.cache
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ElevatorManager.AssemblyInfo.cs
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ElevatorManager.csproj.CoreCompileInputs.cache
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\bin\Debug\net6.0\ElevatorManager.exe
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\bin\Debug\net6.0\ElevatorManager.deps.json
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\bin\Debug\net6.0\ElevatorManager.runtimeconfig.json
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\bin\Debug\net6.0\ElevatorManager.dll
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\bin\Debug\net6.0\ElevatorManager.pdb
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ElevatorManager.dll
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\refint\ElevatorManager.dll
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ElevatorManager.pdb
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ElevatorManager.genruntimeconfig.cache
+C:\Users\risha\source\repos\ElevatorManager\ElevatorManager\obj\Debug\net6.0\ref\ElevatorManager.dll
